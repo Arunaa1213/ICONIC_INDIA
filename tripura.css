@@ -5,10 +5,13 @@ body {
 }
 header {
   background-image: url(tripura.jpg);
-  background-repeat: round;
-  background-size: 100%;
-  height: 60vh;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  padding: 0;
   display: block;
+  max-width: 100%;
 }
 .head {
   font-size: xx-large;
