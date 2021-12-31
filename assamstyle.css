@@ -5,13 +5,10 @@ body {
 }
 header {
   background-image: url(assam.jfif);
-  height: 100vh;
-  background-size: cover;
-  background-position: center;
-  margin: 0;
-  padding: 0;
+  background-repeat: round;
+  background-size: 100%;
+  height: 60vh;
   display: block;
-  max-width: 100%;
 }
 .head {
   font-size: xx-large;
