@@ -4,14 +4,11 @@ body {
   display: block;
 }
 header {
-  background-image: url(chattisgarh.jfif);
+  background-image: url(chat.jpg);
   background-repeat: round;
   background-size: 100%;
-  height: 100vh;
+  height: 60vh;
   display: block;
-  background-position: center;
-  background-position-x: center;
-  background-position-y: center;
 }
 .head {
   font-size: xx-large;
